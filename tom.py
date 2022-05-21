@@ -15,7 +15,6 @@ async def on_ready():
     # Rubi
     # RThreeFive
     sentences = [
-        "Your mom's fat",
         "Pizza",
         "Walmart is an epok place",
         "Mexico is Mexico",
